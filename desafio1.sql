@@ -106,7 +106,7 @@ VALUE
 ('Finding My Traditions', 179, 7),
 ('Walking And Man', 229, 7), 
 ('Hard And Time',  135, 7),
-('Honey, Im A Lone Wolf', 150, 7),
+("Honey, I'm A Lone Wolf", 150, 7),
 ("She Thinks I Won't Stay Tonight", 166, 8),
 ("He Heard You're Bad For Me", 154, 8),
 ("He Hopes We Can't Stay", 210, 8),
